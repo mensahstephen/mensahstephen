@@ -15,13 +15,13 @@ Hey, My name is Mensah Stephen, I am a passionate Computer Science student at Yo
 ### 1. Wordle Replica App
 
 - Description: A Java Swing-based word-guessing game inspired by "Wordle."
-- Repository Link: 
+- Repository Link: https://github.com/mensahstephen/Wordle.git
 - Technologies: Java, Swing
 
 ### 2. To-Do App
 
 - Description: A task management application with an intuitive user interface.
-- Repository Link: 
+- Repository Link: https://github.com/mensahstephen/To-Do-App.git
 - Technologies: Java, Swing
 
 ### 3. Calculator App
@@ -33,31 +33,31 @@ Hey, My name is Mensah Stephen, I am a passionate Computer Science student at Yo
 ### 4. Online Shopping System
 
 - Description: An e-commerce platform system that includes product browsing, and shopping cart functionality.
-- Repository Link:
+- Repository Link:https://github.com/mensahstephen/Online-Shopping-System.git
 - Technologies: Java
 
 ### 5. Music Listening System (MySpotify)
 
 - Description: A music streaming application system with playlist creation and music playback capabilities.
-- Repository Link: 
+- Repository Link: https://github.com/mensahstephen/Music-Listening-System-mySpotify-.git
 - Technologies: Java
 
 ### 6. Library Management System
 
 - Description: A comprehensive system for managing library resources, including book check-in/check-out and user accounts.
-- Repository Link:
+- Repository Link:https://github.com/mensahstephen/Library-Management-System.git
 - Technologies: Java
 
 ### 7. Currency Converter
 
 - Description: A currency conversion tool with real-time exchange rate updates.
-- Repository Link: 
+- Repository Link: https://github.com/mensahstephen/currency-converter.git
 - Technologies: Java, Swing
 
 ### 8. E-commerce System
 
 - Description: An extensive e-commerce platform system with product listings and order processing.
-- Repository Link: 
+- Repository Link: https://github.com/mensahstephen/E-Commerce-System-.git
 - Technologies: Java, Swing, MySQL
 
 ## Acknowledgments
