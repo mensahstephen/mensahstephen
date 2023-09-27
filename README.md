@@ -27,7 +27,7 @@ Hey, My name is Mensah Stephen, I am a passionate Computer Science student at Yo
 ### 3. Calculator App
 
 - Description: A basic calculator application designed for ease of use.
-- Repository Link:
+- Repository Link: https://github.com/mensahstephen/calculator.git
 - Technologies: Java, Swing
 
 ### 4. Online Shopping System
