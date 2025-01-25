@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # About Me
 
-Hey, My name is Mensah Stephen, I am a passionate Computer Science student at York University, Toronto, with a keen interest in software development and a strong focus on Java, JavaScript, Swing, and database management. This repository serves as a showcase of my project work and coding skills.
+Hey, My name is Mensah Stephen, I am a passionate Computer Science student at York University, Toronto, with a keen interest in software development and data science with a strong focus on Java, Python and database management. This repository serves as a showcase of my project work and coding skills.
 
 - **Email:** stephenmensah711@gmail.com
 
